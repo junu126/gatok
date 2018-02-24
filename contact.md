@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
-permalink: /우편/
+title: 우편
+permalink: /contact/
 ---
 
  저의 블로그를 봐주시는 모두 감사드립니다. 혹시 피드백이나, 자신의 의견을 남겨주시고 싶으시다면 메시지를 남겨주세요. -Send를 누르시면 페이스북이 활성화 됩니다. :D
