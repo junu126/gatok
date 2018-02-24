@@ -4,9 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-
-I would love to hear from you. Any query, any suggestion or feedback would be great! If you need a website, blog or portfolio site then please leave a message.
-
+ 저의 블로그를 봐주시는 모두 감사드립니다. 혹시 피드백이나, 자신의 의견을 남겨주시고 싶으시다면 메시지를 남겨주세요. -Send를 누르시면 페이스북이 활성화 됩니다. :D
 
 
 <form id="contact-form" class="form-horizontal" action="https://getsimpleform.com/messages?form_api_token=b6d4be9b039b666b3311e1ddcbfb577c" method="POST" enctype="multipart/form-data">
@@ -36,22 +34,11 @@ I would love to hear from you. Any query, any suggestion or feedback would be gr
          <input type="submit" class="btn btn-primary" value="Send" id="submit"/>
          </div>
          </div>
-        <input type="hidden" name='redirect_to' value="http://blog.webjeda.com/thank-you/" />
+        <input type="hidden" name='redirect_to' value="https://www.facebook.com/yours.kimjunwoo" />
     </fieldset>  
 </form>
 
 
-This form is made functional by [SimpleForm](https://getsimpleform.com){: target="_blank"}. Read [How to create a form in Jekyll site](http://blog.webjeda.com/jekyll-contact-form/){: target="_blank"} to implement using formspree.
+저의 [페이스북](https://www.facebook.com/yours.kimjunwoo){: target="_blank"}과 [트위터](https://twitter.com/xGvdmOmixMAl6ws?lang=ko){: target="_blank"} 입니다. 많은 팔로우 바랍니다.
 
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=1409800599270506";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-
-<div class="fb-page" data-href="https://www.facebook.com/webjeda/" data-small-header="true" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/webjeda/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/webjeda/">WebJeda</a></blockquote></div>
+<div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=1409800599270506"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
