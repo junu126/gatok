@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 블로그 소개
-permalink: /블로그 설명/
+title: about
+permalink: /about/
 ---
 <div class="mt50"></div>
 [**계기**]
