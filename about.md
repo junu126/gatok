@@ -1,21 +1,12 @@
 ---
 layout: page
-title: About
+title: 블로그 소개
 permalink: /about/
 ---
 <div class="mt50"></div>
+[**계기**]
+2018.03.02 대덕소프트웨어 마이스터고등학교에 입학하고, 앞으로의 실적및 학업을 기록하고자 만들었습니다.
 
-Webjeda Gatok is a Bootstrap based theme. Any Bootstrap element can be used in the theme.
+저는 현제 대덕소프트웨어 마이스터고등학교 1학년 4반에 재학중이며, 번호는 6번입니다.
 
-The name Gatok is a short form of [Ghatotkacha](https://en.wikipedia.org/wiki/Ghatotkacha){: target="_blank"} who was a monster in the Hindu mythology Mahabharatha.
-
-![Gatok Jekyll Theme]({{site.baseurl}}/images/gatok.jpg)
-
-He is someone you shouldn't be messing with!
-![Gatok Jekyll Theme]({{site.baseurl}}/images/gatok-2.jpg)
-
-
-[**Watch his story**](https://www.youtube.com/watch?v=6gYv6S1dCqs){: target="_blank"}
-
-
-Read [Webjeda Blog](http://blog.webjeda.com){: target="_blank"} for jekyll tutorials. 
+앞으로 꼬박꼬박 많은 포스팅을 하겠습니다. 저의 활동을 기대해주십쇼. 이상 대마고 재학생 [**김준우**] 였습니다.
