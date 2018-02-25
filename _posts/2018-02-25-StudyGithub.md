@@ -38,7 +38,7 @@ title: "깃헙 배우기_first"
 
 
 <h3>◎<a hraf="https://www.youtube.com/watch?time_continue=1&v=N_rpDCZxRCY" target="blank">Git과 SourceTree 다운 설명 링크.</a></h3>
-
+https://opentutorials.org/course/1492/8037
 
 <br>
 
