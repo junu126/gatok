@@ -39,6 +39,6 @@ permalink: /contact/
 </form>
 
 
-저의 [페이스북](https://www.facebook.com/yours.kimjunwoo){: target="_blank"}과 [트위터](https://twitter.com/xGvdmOmixMAl6ws?lang=ko){: target="_blank"} 입니다. 많은 팔로우 바랍니다.
+저의 [페이스북](https://www.facebook.com/yours.kimjunwoo){: target="_blank"}과 [트위터](https://twitter.com/JsRod_hton){: target="_blank"} 입니다. 많은 팔로우 바랍니다.
 
 <div id="fb-root"></div> <script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=1409800599270506"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
