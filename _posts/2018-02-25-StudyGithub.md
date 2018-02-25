@@ -1,38 +1,38 @@
 ---
-
 layout: post
-
 title: "깃헙 배우기_first"
-
 ---
 
 
 
-**<font color = red>♣본 포스팅은 PC에 최적화 되어있습니다.♣</font>**
+**♣본 포스팅은 PC에 최적화 되어있습니다.♣**
 
 
 
 
 
-##</font><font color=geay>버전관리</font> 란?
+##버전관리 란?
 
 
 
-<h3>◎<font color=rgb(255,2,255)>버전</font></h3>
+
+<h3>◎버전</h3>
 
 
 
-&nbsp;&nbsp;&nbsp;-정의 : **어떠한 <strong><font color=red>의미있는</font></strong> 변화들**
+
+
+&nbsp;&nbsp;&nbsp;-정의 : **어떠한 의미있는 변화들**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -기능의 개선, 버그수정, 커스터마이징 등
 
  
 
-&nbsp;&nbsp;&nbsp; - 여러 클라이언트에서도 이용되고 있다.(Dropbox, Google Drive)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 여러 클라이언트에서도 이용되고 있다.(Dropbox, Google Drive)
 
 
 
- ##<font color=geay>Git과 SourceTree 설치</font>
+ ##Git과 SourceTree 설치
 
 
 
@@ -40,17 +40,21 @@ title: "깃헙 배우기_first"
 
 
 
-<br></br>
 
-##<font color=geay>Git 공부 - 예제 설명</font>
+
+##Git 공부 - 예제 설명
 
 
 
 <h4>
 
-01 : <.html>
+01 : <html>
 
-02 : &nbsp;&nbsp;<.head>
+
+
+02 : &nbsp;&nbsp;<head>
+
+
 
 03 : &nbsp;&nbsp;&nbsp;&nbsp;<.meta charset="UTF-8" />
 
@@ -156,13 +160,13 @@ title: "깃헙 배우기_first"
 
 
 
-##<font color=geay>알게된 점</font>
+**<a hraf="https://www.youtube.com/watch?time_continue=1&v=N_rpDCZxRCY" target="blank">알게된 점.</a>**
 
 <h4> 버전관리와 Git, SourceTree를 설치하는 방법을 알 수 있었고,GitHub에 올리기위한 저장소를 만드는 방법을 알았다.</h4>
 
 
 
-##<font color=geay>느낀점</font>
+**<a hraf="https://www.youtube.com/watch?time_continue=1&v=N_rpDCZxRCY" target="blank">느낀점</a>**
 
 <h4>대마고에 입학하게 되어서 처음으로 블로그를 만들고, 포스팅해보는데 생각보다 재밌고, 내가 공부한 내용을 기록할 수 있어서 행복한 것 같다. 앞으로 꾸준히 포스팅을 계속 할 수 있으면 좋겠다.</h4>
 
