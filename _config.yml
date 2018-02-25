@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Json의 블로그
+title: JsRod_hton의 블로그
 email: junu321@naver.com
 description: > # this means to ignore newlines until "baseurl:"
   Blog is a minimal jekyll theme with a 3d menu bar. 
