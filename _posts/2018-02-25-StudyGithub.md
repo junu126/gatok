@@ -49,9 +49,9 @@ title: "깃헙 배우기_first"
 
 <h4>
 
-01 : `<.html>`
+01 : `<html>`
 <br>
-02 : &nbsp;&nbsp;`<.head>`
+02 : &nbsp;&nbsp;`<head>`
 <br>
 03 : &nbsp;&nbsp;&nbsp;&nbsp;<.meta charset="UTF-8" />
 <br>
