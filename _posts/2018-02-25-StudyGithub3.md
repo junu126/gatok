@@ -91,3 +91,60 @@ title: "깃헙 배우기_third"
 
 	<li>꼭 Commit하기전에 작성했던 코드들을 비교해보는 습관을 들이자.</li>
 </ul>
+
+<br>
+<br>
+
+<h1>Reset</h1>
+
+<h3>이미 commit한 버전을 취소하는 방법</h3>
+
+<br>
+<br>
+
+<h3>만약 body태그를 추가했던 상태로 돌아가고 싶다면 어떻게 해야할까?</h3>
+
+<ul>
+	<li>1. 돌아가고 싶은 버전을 클릭.</li>
+	<li>2. Reset Current Vranch를 선택</li>
+	<li>3. Using mode하고 hard로 설정한 후 OK를 누른다.</li>
+	<li>4. body태그를 한 이후의 모든 commit 파일들이 삭제되고 body태그를 추가했던 상태로 돌아간다.</li>
+
+	<br>
+	<br>
+
+	<li>이 기능은 조심해서 사용해야 하는 기능이다. 모든 데이터가 날아갈 수 있기 때문이다.</li>
+
+</ul>
+
+<br>
+<br>
+
+<h1>Revert</h1>
+
+<br>
+
+<h3>예전 버전으로 돌아가는 Reset을 제외하고 다른 방법.</h3>
+<h3>'Revert'는 실행했던 버전을 유지시키면서 수정사항으로 돌아 갈 수 있다.</h3>
+
+<ul>
+	<li>1. 원하는 버전을 우클릭한 후 "Reverse commit.."을 클릭.</li>
+	<li>2. Revert한 버전이 새로 생긴다.</li>
+<br>
+	<li>하지만 Revert를 사용할 때 만약 화면에 보이는 여러 버전들 중 아래쪽에 위치한 버전을 되돌리고 싶다면,</li>
+	<li>그 위에 존재하는 여러 버전들을 전부 Revert해야한다.</li>
+</ul>
+
+<br>
+<br>
+
+**<a hraf="https://www.youtube.com/watch?time_continue=1&v=N_rpDCZxRCY" target="blank">알게된 점.</a>**
+
+<h4>여러 되돌리는 방법과 꼭 들여야하는 습관을 알 수 있었다.</h4>
+
+
+
+**<a hraf="https://www.youtube.com/watch?time_continue=1&v=N_rpDCZxRCY" target="blank">느낀점</a>**
+
+<h4>Git을 공부하면서 되돌리는 기능이 있지 않을까 생각해 보았는데 나의 생각이 적중했다. 한결 맘 편하게 버전을 만들 수 있을 것 같다.</h4>
+
