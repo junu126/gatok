@@ -49,67 +49,67 @@ title: "깃헙 배우기_first"
 
 <h4>
 
-`01 : <html>
+`01 : <html>`
 <br>
-02 : &nbsp;&nbsp;<head>
+`02 : &nbsp;&nbsp;<head>`
 <br>
-03 : &nbsp;&nbsp;&nbsp;&nbsp;<meta charset="UTF-8" />
+`03 : &nbsp;&nbsp;&nbsp;&nbsp;<meta charset="UTF-8" />`
 <br>
-04 : &nbsp;&nbsp;&nbsp;&nbsp;<title>GIT 수업</title>
+`04 : &nbsp;&nbsp;&nbsp;&nbsp;<title>GIT 수업</title>`
 <br>
-05 : &nbsp;&nbsp;</head> 
+`05 : &nbsp;&nbsp;</head> `
 <br>
-06 : &nbsp;&nbsp;<body>
+`06 : &nbsp;&nbsp;<body>`
 <br>
-08 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<header>
+`08 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<header>`
 <br>
-09 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h1>Git</h1>
+`09 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<h1>Git</h1>`
 <br>
-10 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</header>
+`10 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</header>`
 <br>
-11 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ul>
+`11 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ul>`
 <br>
-12 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>sync.egoing</li>
+`12 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>sync.egoing</li>`
 <br>
-13 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>introduce Git</li>
+`13 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>introduce Git</li>`
 <br>
-14 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>version</li>
+`14 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>version</li>`
 <br>
-15 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>Branch</li>
+`15 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>Branch</li>`
 <br>
-16 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>브랜치</li>
+`16 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>브랜치</li>`
 <br>
-17 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>충돌</li>
+`17 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>충돌</li>`
 <br>
-18 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>충돌해결</li>
+`18 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>충돌해결</li>`
 <br>
-19 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>원격저장소</li>
+`19 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>원격저장소</li>`
 <br>
-20 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>push</li>
+`20 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>push</li>`
 <br>
-21 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>pull</li>
+`21 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>pull</li>`
 <br>
-22 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>협업</li>
+`22 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>협업</li>`
 <br>
-23 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>sync</li>
+`23 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>sync</li>`
 <br>
-24 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>push.egoing</li>
+`24 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>push.egoing</li>`
 <br>
-25 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>pull.leezche</li>
+`25 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>pull.leezche</li>`
 <br>
-26 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>conflict.egoing.leezche</li>
+`26 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>conflict.egoing.leezche</li>`
 <br>
-27 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>외부도구.master</li>
+`27 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>외부도구.master</li>`
 <br>
-28 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>스테시</li>
+`28 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>스테시</li>`
 <br>
-29 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>ignore</li>
+`29 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>ignore</li>`
 <br>
-30 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ul>
+`30 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ul>`
 <br>
-31 : &nbsp;&nbsp;</body>
+`31 : &nbsp;&nbsp;</body>`
 <br>
-32 : </html>`
+`32 : </html>`
 
 </h4>
 
