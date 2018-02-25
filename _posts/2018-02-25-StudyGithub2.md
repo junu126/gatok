@@ -43,29 +43,29 @@ title: "깃헙 배우기_second"
 
 <h1>버전 만들기</h1>
 
-<h3>
-&nbsp;&nbsp;&nbsp; 1. Unstaged files에 생긴 파일을 Staged files로 보내기 위해 원하는 파일을 선택해서 Stage Selected를 누른다.
+<ul>
+&nbsp;&nbsp;&nbsp; <li>1. Unstaged files에 생긴 파일을 Staged files로 보내기 위해 원하는 파일을 선택해서 Stage Selected를 누른다.</li>
 
 <br>
 
-&nbsp;&nbsp;&nbsp; 2.이 파일의 설명을 하단에 File Status창에 적어준후 "Commit"을 누른다.
+&nbsp;&nbsp;&nbsp; <li>2.이 파일의 설명을 하단에 File Status창에 적어준후 "Commit"을 누른다.</li>
 
 <br>
 
 <br>
 
-&nbsp;&nbsp;&nbsp;1~2번을 반복하다보면 여러 파일이 쌓인다.
+&nbsp;&nbsp;&nbsp; <li>1~2번을 반복하다보면 여러 파일이 쌓인다.</li>
 
 <br>
 
-&nbsp;&nbsp;&nbsp;만약 웹페이지를 만든다고 가정해봤을때 "index.html" , "html태그" ,"body태그" ,"head태그" 등. 여러 파일이 나온다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li>만약 웹페이지를 만든다고 가정해봤을때 "index.html" , "html태그" ,"body태그" ,"head태그" 등. 여러 파일이 나온다.</li>
 
 <br>
 
-&nbsp;&nbsp;&nbsp;이렇게 만들어진 여러개의 버전을 탐색해서 이 프로젝트에 어떤 일들이 일어나고 있는가를 추적할 수 있게 기능을 제공하는 것이 버전관리시스템이 제공하는 가장 기본적이고 중요한 기능이다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <li>이렇게 만들어진 여러개의 버전을 탐색해서 이 **프로젝트에 어떤 일들이 일어나고 있는가를 추적할 수 있게 기능을 제공하는 것이 버전관리시스템이 제공하는 가장 기본적이고 중요한 기능**이다.</li>
 
 <br>
-</h3>
+</ul>
 
 **<a hraf="https://www.youtube.com/watch?time_continue=1&v=N_rpDCZxRCY" target="blank">알게된 점.</a>**
 
