@@ -9,32 +9,63 @@ title: "깃헙 배우기_second"
 <br>**♣본 포스팅은 PC에 최적화 되어있습니다.♣**
 
 <br>
+
 <h1>소스트리에 등록하기</h1>
+
 <br>
-&nbsp;&nbsp;&nbsp; <h3>Git은 우리가 작업할 수 있는 저장소. 즉, 프로젝트의 디렉토리이다.</h3>
+<ul>
+ &nbsp;&nbsp;&nbsp;<li>Git은 우리가 작업할 수 있는 저장소. 즉, 프로젝트의 디렉토리이다.</li>
+
 <br>
-&nbsp;&nbsp;&nbsp; <h3>이 저장소에서 파일이 추가되거나, 삭제되거나 수정되는 등, 변화들을 Git이 관찰 한다.</h3>
+
+&nbsp;&nbsp;&nbsp; <li>이 저장소에서 파일이 추가되거나, 삭제되거나 수정되는 등, 변화들을 Git이 관찰 한다.</li>
+
 <br>
-&nbsp;&nbsp;&nbsp; <h3>관찰하다가 변화가 생기면 알아채고 바로 준비를 한다.</h3>
+
+&nbsp;&nbsp;&nbsp; <li>관찰하다가 변화가 생기면 알아채고 바로 준비를 한다.</li>
+
 <br>
+
 <br>
-&nbsp;&nbsp;&nbsp; <h3>1. 저번에 만든 저장소에 파일을 하나 생성시킨다.</h3>
+
+&nbsp;&nbsp;&nbsp; <li>1. 저번에 만든 저장소에 파일을 하나 생성시킨다.</li>
+
 <br>
-&nbsp;&nbsp;&nbsp; <h3>2. Git 저장소가 변화가 생김을 알아채고 바로 준비를 한다.</h3>
+
+&nbsp;&nbsp;&nbsp; <li>2. Git 저장소가 변화가 생김을 알아채고 바로 준비를 한다.</li>
+
 <br>
-&nbsp;&nbsp;&nbsp; <h3>소스트리에 변화가 생겨있다.(Working Copy - Unstaged files)</h3>
+
+&nbsp;&nbsp;&nbsp; <li>소스트리에 변화가 생겨있다.(Working Copy - Unstaged files)</li>
+
 <br>
+</ul>
+
 <h1>버전 만들기</h1>
-&nbsp;&nbsp;&nbsp; <h3>1. Unstaged files에 생긴 파일을 Staged files로 보내기 위해 원하는 파일을 선택해서 Stage Selected를 누른다.</h3>
+
+<h3>
+&nbsp;&nbsp;&nbsp; 1. Unstaged files에 생긴 파일을 Staged files로 보내기 위해 원하는 파일을 선택해서 Stage Selected를 누른다.
+
 <br>
-&nbsp;&nbsp;&nbsp; <h3>2.이 파일의 설명을 하단에 File Status창에 적어준후 "Commit"을 누른다.</h3>
+
+&nbsp;&nbsp;&nbsp; 2.이 파일의 설명을 하단에 File Status창에 적어준후 "Commit"을 누른다.
+
 <br>
+
 <br>
-&nbsp;&nbsp;&nbsp;<h3>1~2번을 반복하다보면 여러 파일이 쌓인다.</h3>
+
+&nbsp;&nbsp;&nbsp;1~2번을 반복하다보면 여러 파일이 쌓인다.
+
 <br>
-&nbsp;&nbsp;&nbsp;<h3>만약 웹페이지를 만든다고 가정해봤을때 "index.html" , "html태그" ,"body태그" ,"head태그" 등. 여러 파일이 나온다.</h3>
+
+&nbsp;&nbsp;&nbsp;만약 웹페이지를 만든다고 가정해봤을때 "index.html" , "html태그" ,"body태그" ,"head태그" 등. 여러 파일이 나온다.
+
 <br>
-&nbsp;&nbsp;&nbsp;<h3>이렇게 만들어진 여러개의 버전을 탐색해서 이 프로젝트에 어떤 일들이 일어나고 있는가를 추적할 수 있게 기능을 제공하는 것이 버전관리시스템이 제공하는 가장 기본적이고 중요한 기능이다.</h3>
+
+&nbsp;&nbsp;&nbsp;이렇게 만들어진 여러개의 버전을 탐색해서 이 프로젝트에 어떤 일들이 일어나고 있는가를 추적할 수 있게 기능을 제공하는 것이 버전관리시스템이 제공하는 가장 기본적이고 중요한 기능이다.
+
+<br>
+</h3>
 
 **<a hraf="https://www.youtube.com/watch?time_continue=1&v=N_rpDCZxRCY" target="blank">알게된 점.</a>**
 
