@@ -5,13 +5,14 @@ title: "깃헙 배우기_first"
 
 
 
-<br>**♣본 포스팅은 PC에 최적화 되어있습니다.♣**</br>
+<br>**♣본 포스팅은 PC에 최적화 되어있습니다.♣**
 
 
 
 
 
-<br><h1>버전관리 란?</h1></br>
+<br>
+<h1>버전관리 란?</h1>
 
 
 
@@ -19,7 +20,7 @@ title: "깃헙 배우기_first"
 <h3>◎버전</h3>
 
 
-
+<br>
 
 
 &nbsp;&nbsp;&nbsp;-정의 : **어떠한 의미있는 변화들**
@@ -30,103 +31,99 @@ title: "깃헙 배우기_first"
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 여러 클라이언트에서도 이용되고 있다.(Dropbox, Google Drive)
 
+<br>
 
-
- ##Git과 SourceTree 설치
-
-
-
-<h3>◎<font color=rgb(255,2,255)><a hraf="https://www.youtube.com/watch?time_continue=1&v=N_rpDCZxRCY" target="blank">Git과 SourceTree 다운 설명 링크.</a></font></h3>
+ <h1>Git과 SourceTree 설치</h1>
 
 
 
+<h3>◎<a hraf="https://www.youtube.com/watch?time_continue=1&v=N_rpDCZxRCY" target="blank">Git과 SourceTree 다운 설명 링크.</a></h3>
 
 
-##Git 공부 - 예제 설명
+<br>
+
+
+<h1>Git 공부 - 예제 설명</h1>
 
 
 
 <h4>
 
-01 : <html>
-
-
-
-02 : &nbsp;&nbsp;<head>
-
-
-
+01 : <.html>
+<br>
+02 : &nbsp;&nbsp;<.head>
+<br>
 03 : &nbsp;&nbsp;&nbsp;&nbsp;<.meta charset="UTF-8" />
-
+<br>
 04 : &nbsp;&nbsp;&nbsp;&nbsp;<.title>GIT 수업<./title>
-
+<br>
 05 : &nbsp;&nbsp;<./head> 
-
+<br>
 06 : &nbsp;&nbsp;<.body>
-
+<br>
 08 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.header>
-
+<br>
 09 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.h1>Git<./h1>
-
+<br>
 10 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<./header>
-
+<br>
 11 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.ul>
-
+<br>
 12 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>sync.egoing<./li>
-
+<br>
 13 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>introduce Git<./li>
-
+<br>
 14 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>version<./li>
-
+<br>
 15 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>Branch<./li>
-
+<br>
 16 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>브랜치<./li>
-
+<br>
 17 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>충돌<./li>
-
+<br>
 18 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>충돌해결<./li>
-
+<br>
 19 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>원격저장소<./li>
-
+<br>
 20 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>push<./li>
-
+<br>
 21 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>pull<./li>
-
+<br>
 22 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>협업<./li>
-
+<br>
 23 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>sync<./li>
-
+<br>
 24 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>push.egoing<./li>
-
+<br>
 25 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>pull.leezche<./li>
-
+<br>
 26 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>conflict.egoing.leezche<./li>
-
+<br>
 27 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>외부도구.master<./li>
-
+<br>
 28 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>스테시<./li>
-
+<br>
 29 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>ignore<./li>
-
+<br>
 30 : &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<./ul>
-
+<br>
 31 : &nbsp;&nbsp;<./body>
-
+<br>
 32 : <./html>
 
 </h4>
 
+<br>
 
-
--**깃을 공부하는데 예제가 어려우면 조금 힘들 수 잇기에 간단하고 쉬운 예제를 사용한다.**
-
-
-
--**각 코드앞의 '.'은 제외하고 읽는다.**
+**깃을 공부하는데 예제가 어려우면 조금 힘들 수 잇기에 간단하고 쉬운 예제를 사용한다.**
 
 
 
-##<font color=geay>저장소 만들기 (init)</font>
+**각 코드앞의 '.'은 제외하고 읽는다.**
+
+
+
+<h1>저장소 만들기 (init)</h1>
 
 
 
