@@ -136,9 +136,12 @@ title: "깃헙 배우기_fourth"
 	<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>>>>>> "이름"
 	<br>
+	<br>
 	&nbsp;&nbsp;&nbsp; -만약 체크아웃하고있는 브랜치를 유지시키고 싶다면
 	<br>
+	<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>brench<.li>
+	<br>
 	<br>
 	&nbsp;&nbsp;&nbsp; - 저 부분만 남겨두면 된다.
 	<br>
