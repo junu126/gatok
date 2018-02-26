@@ -126,15 +126,15 @@ title: "깃헙 배우기_fourth"
 	<br>
 	<br>
 	<li>4. 원하지 않는 부분의 브랜치는 삭제한다.</li>
-	&nbsp;&nbsp;&nbsp; EX) >>>>>>> head
+	&nbsp;&nbsp;&nbsp; EX) <<<<<<< head
 	<br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>brench<./li>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>brench<./li>
 	<br>
-	&nbsp;&nbsp;&nbsp;&nbsp;=======
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=======
 	<br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>brench2<./li>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>brench2<./li>
 	<br>
-	&nbsp;&nbsp;&nbsp;&nbsp;<<<<<<< "이름"
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>>>>>> "이름"
 	<br>
 	&nbsp;&nbsp;&nbsp; -만약 체크아웃하고있는 브랜치를 유지시키고 싶다면
 	<br>
