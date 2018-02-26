@@ -140,4 +140,10 @@ title: "깃헙 배우기_final"
 
 **<a hraf="https://www.youtube.com/watch?time_continue=1&v=N_rpDCZxRCY" target="blank">느낀점</a>**
 
-<h4>아.. 아직 고등학교1학년이라 협업을 할 기회가 생길지는 잘 모르겠지만 앞으로 유용하게 쓰일 것 같고, Push와 Pull을 잘 이해할 수 있었던 것 같다.</h4>
+<h4>아.. 아직 고등학교1학년이라 협업을 할 기회가 생길지는 잘 모르겠지만 앞으로 유용하게 쓰일 것 같고, Push와 Pull을 잘 이해할 수 있었던 것 같다.또 이제 생활코딩에서 Git을 마무리 했는데 다음에도 좋은 유용한 정보를 얻을 수 있으면 좋겠다. </h4>
+
+<h1>생활코딩 주소</h1
+
+<br>
+
+**https://opentutorials.org/course/1492/8035**
