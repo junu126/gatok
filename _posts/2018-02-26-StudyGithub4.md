@@ -77,7 +77,7 @@ title: "깃헙 배우기_fourth"
 
 <h3>예 : 만약 안정적이지 않은 작업이 성공적으로 진행되었다. 그래서 안정적인작업과 합치게 되었다. 어떻게 해야할까?</h3>
 
-<h2>방법</h2>
+<h3>방법</h3>
 
 <br>
 
@@ -111,3 +111,43 @@ title: "깃헙 배우기_fourth"
 
 <br>
 
+<h3>충돌이란? 두 브랜치에서 서로 같은 곳을 수정했을 경우에 버전관리 시스템이 자동으로 병합해줄 수 없을때 직접 수정해야하는 경우.</h3>
+
+<br>
+
+<h2>방법</h2>
+
+<br>
+
+<ul>
+	<li>1. 충돌이 일어난 소스코드를 확인한다.</li>
+	<li>2. <<<<<<< head 와 =======로 이루어진 기호 사이에 있는 코드와 head가 좀전에 체크아웃한 브랜치이다. </li>
+	<li>3. ========과 >>>>>>>"이름"으로 이루어진 기호 사이에 있는 코드와 "이름"은 "이름"이라는 브랜치 이다.</li>
+	<br>
+	<li>4. 원하지 않는 부분의 브랜치는 삭제한다.</li>
+	&nbsp;&nbsp;&nbsp; EX) >>>>>>> head
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>brench<./li>
+	&nbsp;&nbsp;&nbsp;&nbsp;=======
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>brench2<./li>
+	&nbsp;&nbsp;&nbsp;&nbsp;<<<<<<< "이름"
+	<br>
+	&nbsp;&nbsp;&nbsp; -만약 체크아웃하고있는 브랜치를 유지시키고 싶다면
+	<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>brench<.li>
+	<br>
+	&nbsp;&nbsp;&nbsp; - 저 부분만 남겨두면 된다.
+	<br>
+
+	<li>5. 깃으로 돌아가서 Uncommitted changes로 가면 하단에 아이콘이 !로 변해 있다.</li>
+	<li>6. Resove Conflicts에 있는 Mark Resolved를 클릭한다.</li>
+</ul>
+
+<br>
+
+<h3>조금 어려운 내용이지만 이해할 수 있다!</h3>
+
+<br>
+
+<h1>브랜치 충돌의 예방</h1>
+
+<h3></h3>
