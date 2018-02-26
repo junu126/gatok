@@ -87,3 +87,34 @@ title: "깃헙 배우기_fifth"
 
 <h3>깃헙 페이지에서 중앙의 commits을 누르면 지금까지 했던 commit들을 확인할 수 있다.</h3>
 <h3>우측의 Graphs를 클릭하면 프로젝트의 여러가지 변경 점 , 변경 사항들을 시각화해서 볼 수 있다.</h3>
+
+<br>
+<br>
+
+<h1>원격저장소로 업로드</h1>
+
+<br>
+
+<h3>로컬 저장소에서 작업한 내용을 원격저장소로 업로드 하기</h3>
+
+<br>
+
+<ul>
+	<li>1. 만약 로컬저장소에서 어떤 버전을 만들었고, Commit을 했다면 상단의 Push에 '1'이 뜬다.</li>
+	<li>2. master가 있는 버전은 로컬저장소, Origin master가 있는 버전은 원격저장소에 저장되어 있다고 생각 할 수 있다.</li>
+	<li>3. master가 있는 버전들을 원격저장소로 보내기위해 Push를 통해 보낸다.</li>
+	<li>4. Origin master와 master가 같은 버전을 가르키고 있다. 라는 것을 확인한다.</li>
+</ul>
+
+<br>
+<br>
+
+**<a hraf="https://www.youtube.com/watch?time_continue=1&v=N_rpDCZxRCY" target="blank">알게된 점.</a>**
+
+<h4>원격저장소와 로컬저장소의 이론을 알게 되었고, 원격저장소에 업로드하는 방법을 알 수 있었다.</h4>
+
+
+
+**<a hraf="https://www.youtube.com/watch?time_continue=1&v=N_rpDCZxRCY" target="blank">느낀점</a>**
+
+<h4>사실 원격저장소에 업로드 하는 방법은 미리 알고 있었던 방법이다. 그렇기에 지금 이렇게 블로그 포스팅을 할 수 있기도 하다. 하지만 여러 이론들이나, Commit보는 방법등은 처음안 내용이라 유익했던 것 같다.</h4>
