@@ -126,22 +126,19 @@ title: "깃헙 배우기_fourth"
 	<br>
 	<br>
 	<li>4. 원하지 않는 부분의 브랜치는 삭제한다.</li>
-	&nbsp;&nbsp;&nbsp; EX) <<<<<<< head
+	&nbsp;&nbsp;&nbsp; EX) >>>>>>> head
 	<br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>brench<./li>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>brench<./li>
 	<br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=======
+	&nbsp;&nbsp;&nbsp;&nbsp;=======
 	<br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>brench2<./li>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>brench2<./li>
 	<br>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>>>>>>> "이름"
-	<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;<<<<<<< "이름"
 	<br>
 	&nbsp;&nbsp;&nbsp; -만약 체크아웃하고있는 브랜치를 유지시키고 싶다면
 	<br>
-	<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>brench<.li>
-	<br>
 	<br>
 	&nbsp;&nbsp;&nbsp; - 저 부분만 남겨두면 된다.
 	<br>
@@ -159,4 +156,53 @@ title: "깃헙 배우기_fourth"
 
 <h1>브랜치 충돌의 예방</h1>
 
-<h3></h3>
+<h3>충돌을 억제할 수 있는 방법, 충돌이 작은범위에서 일어날 수 있도록 하는 방법을 알아보자.</h3>
+
+<ul>
+	<li>1. 새로운 브랜치를 만든다.</li>
+	<li>2. master브랜치의 내용을 새로운 브랜치로 옮긴다.(Merge를 이용)</li>
+	<li>3. 이후 새로운 브랜치에서 작업을 한다.</li>
+	<li>4. 작업을 마치고 커밋한다.</li>
+	<li>5. 다시 master를 체크아웃하고 작업을 계속 한다.</li>
+	<li>6. 작업을 마치고 커밋한다.</li>
+	<li>7. 다시 새로운 브랜치를 체크아웃해서 master의 작업내용을 병합한다.</li>
+	<li>8. 이후 작업을 시작한다. 하지만 충돌이 일어난다.</li>
+	<li>9. 충돌을 해결한다.(충돌을 막는 것이 아니라 완화시키는 것 이다.)</li>
+
+	<br>
+
+	<li>조금씩 계속 충돌을 해결해 나가면서 충돌을 완하시킨다.</li>
+	<li>예방작업을 계속하면서 실질적으로 매번 충돌이 일어날 일은 없을 것이다.</li>
+
+	<br>
+
+	<li>10. 충돌을 해결하고 깃으로 돌아와서 Resolve conflicts - Mark Resolved를 클릭한다.</li>
+
+	<br>
+
+	<li>Resolve conflicts창에 여러 기능이 있는데 우리는 수동으로 편집했기에 Mark Resolved를 사용하는 것 이다.</li>
+
+	<br>
+
+	<li>Resolve Using 'Mine' 이란? 자신의 브랜치에 있었던 내용을 채택한다.</li>
+	<li>Resolve Using 'Theirs' 이란? 자신의 것을 삭제하고 병합한 브랜치의 내용을 채택한다.</li>
+
+	<br>
+	<br>
+
+	<li>11. 이후 master브랜치를 체크아웃 해서 병합한다.</li>
+
+</ul>
+
+<br>
+<br>
+
+**<a hraf="https://www.youtube.com/watch?time_continue=1&v=N_rpDCZxRCY" target="blank">알게된 점.</a>**
+
+<h4>브랜치에 대한 이론, 만드는 방법, 병합방법, 충돌 해결법, 완화법을 알 수 있었다.</h4>
+
+
+
+**<a hraf="https://www.youtube.com/watch?time_continue=1&v=N_rpDCZxRCY" target="blank">느낀점</a>**
+
+<h4>지금까지 Git을 배우면서 제일 어려운 부분이었다. 하지만 나는 나아간다! Git을 마스터하기 위해!</h4>
