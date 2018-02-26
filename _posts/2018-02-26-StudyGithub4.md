@@ -124,11 +124,16 @@ title: "깃헙 배우기_fourth"
 	<li>2. <<<<<<< head 와 =======로 이루어진 기호 사이에 있는 코드와 head가 좀전에 체크아웃한 브랜치이다. </li>
 	<li>3. ========과 >>>>>>>"이름"으로 이루어진 기호 사이에 있는 코드와 "이름"은 "이름"이라는 브랜치 이다.</li>
 	<br>
+	<br>
 	<li>4. 원하지 않는 부분의 브랜치는 삭제한다.</li>
 	&nbsp;&nbsp;&nbsp; EX) >>>>>>> head
+	<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>brench<./li>
+	<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;=======
+	<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>brench2<./li>
+	<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;<<<<<<< "이름"
 	<br>
 	&nbsp;&nbsp;&nbsp; -만약 체크아웃하고있는 브랜치를 유지시키고 싶다면
@@ -136,6 +141,7 @@ title: "깃헙 배우기_fourth"
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<.li>brench<.li>
 	<br>
 	&nbsp;&nbsp;&nbsp; - 저 부분만 남겨두면 된다.
+	<br>
 	<br>
 
 	<li>5. 깃으로 돌아가서 Uncommitted changes로 가면 하단에 아이콘이 !로 변해 있다.</li>
